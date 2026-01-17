@@ -63,4 +63,4 @@ To change colors or theme, modify `tailwind.config.js` or `index.css`.
 
 ---
 
-Built by [Your Name]
+Built by Harikrishna Kalla
